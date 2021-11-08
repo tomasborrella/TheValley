@@ -1,4 +1,4 @@
-# The Valley
+# The Valley 2020/2021
 Material de las clases impartidas en el **Master in
 Data Science & Big Data Analytics** (MDS+1) de [The Valley](https://thevalley.es/formacion/master-data-science-big-data-analytics) del curso 2020/2021.
 
@@ -39,3 +39,19 @@ Data Science & Big Data Analytics** (MDS+1) de [The Valley](https://thevalley.es
  - **Productivización**
    
    (21/09/2021) - [Presentación](https://docs.google.com/presentation/d/1tZOUDY03ZpxjX8DffcqNC81bZlKuLVQWLw8Y_fHuQ8I/edit?usp=sharing)
+
+
+# The Valley 2021/2022
+Material de las clases impartidas en el **Master in
+Data Science & Big Data Analytics** (MDS+2) de [The Valley](https://thevalley.es/formacion/master-data-science-big-data-analytics) del curso 2021/2022.
+
+### Diploma Advanced Machine Learning AI
+
+ - **El toolbox del científico de datos**
+
+   (15/11/2021) - [Presentación](https://docs.google.com/presentation/d/1steuJy6AGVWbwLzhHc3Xe5sZZoV32kJ39Wk6hIvbowI/edit?usp=sharing)
+
+
+- **Taller de desarrollo de productos de datos**
+
+  (29/11/2021) - [Presentación](https://docs.google.com/presentation/d/1Hoql6ESmKxmNg11D990Z4cRnbT_dpfQyao0g3AsTy_8/edit?usp=sharing)
