@@ -55,3 +55,24 @@ Data Science & Big Data Analytics** (MDS+2) de [The Valley](https://thevalley.es
 - **Taller de desarrollo de productos de datos**
 
   (29/11/2021) - [Presentación](https://docs.google.com/presentation/d/1Hoql6ESmKxmNg11D990Z4cRnbT_dpfQyao0g3AsTy_8/edit?usp=sharing)
+  
+### Diploma Big Data, Deep Learning & Cloud
+
+ - **Big Data y principios de arquitecturas de computación distribuidas y altamente escalables**
+   
+   (31/01/2022) - [Presentación](https://docs.google.com/presentation/d/1yMDJfOO1xrOKyoodBF4_nI9ozdKim1OpfjFonuWNX00/edit?usp=sharing)
+
+
+- **DataFrames y Data Pipelines en Spark**
+  
+  (01/02/2022) - [Presentación](https://docs.google.com/presentation/d/188HnpUl2YRnifeMugXLnoUfOL-cKsu92VbxJuLJbBoE/edit?usp=sharing)
+  
+
+- **Creación de modelos de Machine Learning en Spark**
+  
+  (03/02/2022) - [Presentación](https://docs.google.com/presentation/d/1YxLVfjq82Y2F1H28yx8uFm0P98q8xAjGfiitAGA5rt4/edit?usp=sharing)
+
+
+- **Despliegue de Pipelines de modelos con Spark**
+  
+  (08/02/2022) - [Presentación](https://docs.google.com/presentation/d/1H57kb0Pbe8UCB2Oc6lcZQDXmqbAd-Tv6BuzlhpaIOb0/edit?usp=sharing)
