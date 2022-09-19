@@ -13,6 +13,7 @@ Data Science & Big Data Analytics** (MDS+1) de [The Valley](https://thevalley.es
 
   (13/05/2021) - [Presentación](https://docs.google.com/presentation/d/1jXAsbw-uwqNufe5qGbuuS9Hp4wHCOnV0LHW30XLWRwQ/edit?usp=sharing)
 
+
 ### Diploma Big Data, Deep Learning & Cloud
 
  - **Big Data y principios de arquitecturas de computación distribuidas y altamente escalables**
@@ -33,6 +34,7 @@ Data Science & Big Data Analytics** (MDS+1) de [The Valley](https://thevalley.es
 - **Despliegue de Pipelines de modelos con Spark**
   
   (24/06/2021) - [Presentación](https://docs.google.com/presentation/d/1bVH5xskKzVV71sYzroFO1EACAP3CvfhD-L2mOf0qR98/edit?usp=sharing)
+
 
 ### Proyecto Final
 
@@ -78,6 +80,13 @@ Data Science & Big Data Analytics** (MDS+2) de [The Valley](https://thevalley.es
   (08/02/2022) - [Presentación](https://docs.google.com/presentation/d/1H57kb0Pbe8UCB2Oc6lcZQDXmqbAd-Tv6BuzlhpaIOb0/edit?usp=sharing)
 
 
+### Proyecto Final
+
+ - **Productivización**
+   
+   (21/03/2022) - [Presentación](https://docs.google.com/presentation/d/1tZOUDY03ZpxjX8DffcqNC81bZlKuLVQWLw8Y_fHuQ8I/edit?usp=sharing)
+
+
 # The Valley MDS+3
 Material de las clases impartidas en el **Master in
 Data Science & Big Data Analytics** (MDS+3) de [The Valley](https://thevalley.es/formacion/master-data-science-big-data-analytics) del curso 2021/2022.
@@ -86,14 +95,37 @@ Data Science & Big Data Analytics** (MDS+3) de [The Valley](https://thevalley.es
 
  - **El toolbox del científico de datos**
   
-  (25/04/2022) - [Presentación](https://docs.google.com/presentation/d/1DWNeWcTwDWbhDLKjKKy3ZqhIZ54lcFZXSsxeQmma0m4/edit?usp=sharing)
+    (25/04/2022) - [Presentación](https://docs.google.com/presentation/d/1DWNeWcTwDWbhDLKjKKy3ZqhIZ54lcFZXSsxeQmma0m4/edit?usp=sharing)
+
 
 - **Taller de desarrollo de productos de datos**
 
-  (10/05/2022) - [Presentación](https://docs.google.com/presentation/d/1SmhKfN1t-ssOVWBnyruVMCAQItefwjYsG1idZIhquLM/edit?usp=sharing)
+    (10/05/2022) - [Presentación](https://docs.google.com/presentation/d/1SmhKfN1t-ssOVWBnyruVMCAQItefwjYsG1idZIhquLM/edit?usp=sharing)
   
 ### Diploma Big Data, Deep Learning & Cloud
 
  - **Big Data y principios de arquitecturas de computación distribuidas y altamente escalables**
- 
-  (13/06/2022) - [Presentación](https://docs.google.com/presentation/d/1N7iTFQV8VK0wWaCQeHUFN2OAi-j93qTjiS489-cVofA/edit?usp=sharing)
+
+    (13/06/2022) - [Presentación](https://docs.google.com/presentation/d/1N7iTFQV8VK0wWaCQeHUFN2OAi-j93qTjiS489-cVofA/edit?usp=sharing)
+
+
+- **DataFrames y Data Pipelines en Spark**
+  
+  (20/06/2022) - [Presentación](https://docs.google.com/presentation/d/188HnpUl2YRnifeMugXLnoUfOL-cKsu92VbxJuLJbBoE/edit?usp=sharing)
+  
+
+- **Creación de modelos de Machine Learning en Spark**
+  
+  (21/06/2022) - [Presentación](https://docs.google.com/presentation/d/1YxLVfjq82Y2F1H28yx8uFm0P98q8xAjGfiitAGA5rt4/edit?usp=sharing)
+
+
+- **Despliegue de Pipelines de modelos con Spark**
+  
+  (27/06/2022) - [Presentación](https://docs.google.com/presentation/d/1H57kb0Pbe8UCB2Oc6lcZQDXmqbAd-Tv6BuzlhpaIOb0/edit?usp=sharing)
+
+
+### Proyecto Final
+
+ - **Productivización**
+   
+   (19/09/2022) - [Presentación](https://docs.google.com/presentation/d/1tZOUDY03ZpxjX8DffcqNC81bZlKuLVQWLw8Y_fHuQ8I/edit?usp=sharing)
