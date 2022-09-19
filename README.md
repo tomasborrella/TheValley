@@ -84,7 +84,7 @@ Data Science & Big Data Analytics** (MDS+2) de [The Valley](https://thevalley.es
 
  - **Productivización**
    
-   (21/03/2022) - [Presentación](https://docs.google.com/presentation/d/1tZOUDY03ZpxjX8DffcqNC81bZlKuLVQWLw8Y_fHuQ8I/edit?usp=sharing)
+   (21/03/2022) - [Presentación](https://docs.google.com/presentation/d/1p58221jXoih_Bd6v5-pJWjJ1lTaDmMjHFl6sJF_Nqj0/edit?usp=sharing)
 
 
 # The Valley MDS+3
@@ -101,7 +101,8 @@ Data Science & Big Data Analytics** (MDS+3) de [The Valley](https://thevalley.es
 - **Taller de desarrollo de productos de datos**
 
     (10/05/2022) - [Presentación](https://docs.google.com/presentation/d/1SmhKfN1t-ssOVWBnyruVMCAQItefwjYsG1idZIhquLM/edit?usp=sharing)
-  
+    
+
 ### Diploma Big Data, Deep Learning & Cloud
 
  - **Big Data y principios de arquitecturas de computación distribuidas y altamente escalables**
@@ -111,21 +112,21 @@ Data Science & Big Data Analytics** (MDS+3) de [The Valley](https://thevalley.es
 
 - **DataFrames y Data Pipelines en Spark**
   
-  (20/06/2022) - [Presentación](https://docs.google.com/presentation/d/188HnpUl2YRnifeMugXLnoUfOL-cKsu92VbxJuLJbBoE/edit?usp=sharing)
+  (20/06/2022) - [Presentación](https://docs.google.com/presentation/d/1QApmeKaSXYb8dZdN8WahO4cZ6cft7OupncHW_DijsdA/edit?usp=sharing)
   
 
 - **Creación de modelos de Machine Learning en Spark**
   
-  (21/06/2022) - [Presentación](https://docs.google.com/presentation/d/1YxLVfjq82Y2F1H28yx8uFm0P98q8xAjGfiitAGA5rt4/edit?usp=sharing)
+  (21/06/2022) - [Presentación](https://docs.google.com/presentation/d/1kojnLYWyi4FYDxTy3kX-IL5oDsBLL4kxvvibsFHqdPA/edit?usp=sharing)
 
 
 - **Despliegue de Pipelines de modelos con Spark**
   
-  (27/06/2022) - [Presentación](https://docs.google.com/presentation/d/1H57kb0Pbe8UCB2Oc6lcZQDXmqbAd-Tv6BuzlhpaIOb0/edit?usp=sharing)
+  (27/06/2022) - [Presentación](https://docs.google.com/presentation/d/1h2iLFSAI9kL1UMwpQRXYZg-pirkWtRZjoq1zXmGmOl4/edit?usp=sharing)
 
 
 ### Proyecto Final
 
  - **Productivización**
    
-   (19/09/2022) - [Presentación](https://docs.google.com/presentation/d/1tZOUDY03ZpxjX8DffcqNC81bZlKuLVQWLw8Y_fHuQ8I/edit?usp=sharing)
+   (19/09/2022) - [Presentación](https://docs.google.com/presentation/d/1uKhREqOZsI7d1JuCAkSlGFimyKYO2JcRuExnxuFRSxk/edit?usp=sharing)
