@@ -130,3 +130,14 @@ Data Science & Big Data Analytics** (MDS+3) de [The Valley](https://thevalley.es
  - **Productivización**
    
    (19/09/2022) - [Presentación](https://docs.google.com/presentation/d/1uKhREqOZsI7d1JuCAkSlGFimyKYO2JcRuExnxuFRSxk/edit?usp=sharing)
+   
+   
+# The Valley MDS+4
+Material de las clases impartidas en el **Master in
+Data Science & Big Data Analytics** (MDS+4) de [The Valley](https://thevalley.es/formacion/master-data-science-big-data-analytics) del curso 2022/2023.
+
+### Diploma Advanced Machine Learning AI
+
+ - **El toolbox del científico de datos**
+  
+    (28/09/2022) - [Presentación](https://docs.google.com/presentation/d/11nHz5b7de7ajaea_Qs6XzcCWIToHPjA-XGUpgTTmocU/edit?usp=sharing)
