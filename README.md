@@ -153,7 +153,7 @@ Data Science & Big Data Analytics** (MDS+4) de [The Valley](https://thevalley.es
 
 - **Creación de modelos de Machine Learning en Spark**
   
-   (29/11/2022) - Presentación en progreso
+   (29/11/2022) - [Presentación](https://docs.google.com/presentation/d/18-bP6OiwZ89RkUAhC3wfaLleI-YC7Xd1yCLhGWGvHTM/edit?usp=sharing)
 
 
 - **Despliegue de Pipelines de modelos con Spark**
