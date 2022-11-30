@@ -158,7 +158,7 @@ Data Science & Big Data Analytics** (MDS+4) de [The Valley](https://thevalley.es
 
 - **Despliegue de Pipelines de modelos con Spark**
   
-   (30/11/2022) - Presentación en progreso
+   (30/11/2022) - [Presentación](https://docs.google.com/presentation/d/1Cf3yA1gIqP-QJWoCm4PC6N7j1Tn-Rx2Td3UKqCCK9NM/edit?usp=sharing)
 
 
 - **Práctica/Taller con Spark**
