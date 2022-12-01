@@ -163,4 +163,4 @@ Data Science & Big Data Analytics** (MDS+4) de [The Valley](https://thevalley.es
 
 - **Práctica/Taller con Spark**
   
-   (01/12/2022) - Presentación en progreso
+   (01/12/2022) - [Presentación](https://docs.google.com/presentation/d/19Z-_TuOW221fPhV9sOXhiLvmtHLKHUIPClrZESDlQR4/edit?usp=sharing)
