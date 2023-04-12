@@ -11,7 +11,8 @@ Data Science & Big Data Analytics** (MDS+5) de [The Valley](https://thevalley.es
 
 - **Taller de desarrollo de productos de datos**
    
-   (12/04/2023) - 
+   (12/04/2023) - [Presentación](https://docs.google.com/presentation/d/1FWmjfBlbPT1QcBpZIBjmO_twetWoGbRoLwq5jr3_Ug0/edit?usp=sharing)
+
 
 ### Diploma Big Data, Deep Learning & Cloud
 
