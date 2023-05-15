@@ -18,27 +18,23 @@ Data Science & Big Data Analytics** (MDS+5) de [The Valley](https://thevalley.es
 
 - **Big Data y principios de arquitecturas de computación distribuidas y altamente escalables**
 
-   (XX/XX/2023) - 
+   (23/05/2023) - [Presentación](https://docs.google.com/presentation/d/1T9_Ishq6kEDG0bVYEkNIVNn53qZZF8wl-WOj1Uyqqz4/edit?usp=sharing)
 
 
 - **DataFrames y Data Pipelines en Spark**
   
-   (XX/XX/2023) - 
+   (24/05/2023) - 
 
 
 - **Creación de modelos de Machine Learning en Spark**
   
-   (XX/XX/2023) - 
+   (29/05/2023) - 
 
 
 - **Despliegue de Pipelines de modelos con Spark**
   
-   (XX/XX/2023) - 
+   (30/05/2023) - 
 
-
-- **Práctica/Taller con Spark**
-  
-   (XX/XX/2023) - 
 
 ### Proyecto Final
 
