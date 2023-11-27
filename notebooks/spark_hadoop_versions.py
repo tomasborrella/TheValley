@@ -1,0 +1,2 @@
+SPARK_VER = "3.3.3"
+HADOOP_VER = "3"
