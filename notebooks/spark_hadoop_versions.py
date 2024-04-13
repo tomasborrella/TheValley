@@ -1,2 +1,2 @@
-SPARK_VER = "3.3.3"
+SPARK_VER = "3.4.2"
 HADOOP_VER = "3"
